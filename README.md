@@ -56,7 +56,7 @@ Start with notebook 01 and work your way through. Each one builds on the previou
 
 ## About the data
 
-This uses publicly available NYC TLC trip records. The dataset includes trip distance, fares, payment type, pickup/dropoff locations, timestamps, and tip amounts. You can find the official data on the NYC TLC website.
+New York TLC trip records. The dataset includes trip distance, fares, payment type, pickup/dropoff locations, timestamps, and tip amounts. 
 
 ## Why this project?
 
@@ -66,9 +66,7 @@ I built this to demonstrate practical data analysis skills: how to ask the right
 
 Questions about the analysis or want to collaborate? Feel free to reach out:
 
-- **LinkedIn:** [Add your profile]
-- **Email:** [Add your email]
+- **LinkedIn:** www.linkedin.com/in/saad-ahmed-qadeer
 
 ---
 
-MIT License. Use this code however you'd like for learning and portfolio projects.
